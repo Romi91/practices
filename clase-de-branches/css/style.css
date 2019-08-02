@@ -3,3 +3,7 @@ header{
     background:red;
     color: black;
 }
+section{
+    height:50%;
+    background:blue;
+}
