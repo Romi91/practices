@@ -10,6 +10,9 @@ section{
 footer{
     background:green;
 }
+footer h5{
+    color:purple;
+}
 section h2{
     color: black;
 }
